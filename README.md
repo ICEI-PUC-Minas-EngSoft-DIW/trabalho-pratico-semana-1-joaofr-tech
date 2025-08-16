@@ -2,16 +2,20 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: João Francisco Ramos Murilo
+Matricula: 899492
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
+![Inspecao Navegador](images/inspecao.png)
+
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
+
+![Hello World Replit](images/hello_world_replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
